@@ -1,0 +1,5 @@
+pojo/BodyForSerialization.class
+.cucumber/cucumber.stepDefinitions.tmp
+pojo/Location.class
+bdd/APIFramework/App.class
+.cucumber/cucumber.glue.tmp
